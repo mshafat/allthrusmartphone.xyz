@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://allthrusmartphone.netlify.app"
 languageCode: en-us
 title: AllThruSmartphone
 theme: PaperMod
