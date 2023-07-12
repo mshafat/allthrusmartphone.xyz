@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on AllThruSmartphone</title>
+    <link>https://allthrusmartphone.xyz/blog/</link>
+    <description>Recent content in Blogs on AllThruSmartphone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2023 03:29:02 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_2nd_post_archetype</title>
+      <link>https://allthrusmartphone.xyz/blog/my_2nd_post_archetype/</link>
+      <pubDate>Tue, 11 Jul 2023 03:29:02 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/blog/my_2nd_post_archetype/</guid>
+      <description>Welcome You know i&amp;rsquo;m the author of the blog Hey This is Shafat I am happy to make this first post&amp;hellip;
+Who I&amp;rsquo;m? I live in Bangladesh
+Why do you care? I know how to make money online</description>
+    </item>
+    
+    <item>
+      <title>My First Test Archetype</title>
+      <link>https://allthrusmartphone.xyz/blog/my_first_test_archetype/</link>
+      <pubDate>Tue, 11 Jul 2023 03:15:30 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/blog/my_first_test_archetype/</guid>
+      <description>Welcome You know i&amp;rsquo;m the author of the blog Hey This is Shafat I am happy to make this first post&amp;hellip;
+Who I&amp;rsquo;m? I live in Bangladesh
+Why do you care? I know how to make money online</description>
+    </item>
+    
+  </channel>
+</rss>

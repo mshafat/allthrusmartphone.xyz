@@ -6,22 +6,42 @@ theme: PaperMod
 
 menu:
   main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 30
+    - identifier: Clarity Doc
+      name: Clarity Doc
+      url: https://mixedlinks.com/clarity-doc
+      weight: 40
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 50
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 60
+    - identifier: legal
+      name: Legal
+      url: /legal/
+      weight: 70
     - identifier: search
-      name: Search
+      post: <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 33 20" fill="none"
+            stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="25" y1="25" x2="20.65" y2="20.65"></line>
+        </svg>
       url: /search/
-      weight: 40
+      weight: 80
 
 outputs:
     home:
@@ -31,9 +51,19 @@ outputs:
 params:
   homeInfoParams: 
     Title: Welcome
-    Content: Hi, This is Shafat M. Thanks for visiting my blog. Every day I spend a significant portion of my time on my smartphone. I know how dear and important this little device is to me and also to a lot of people like me... still it is surprising that most people are using it the same way, very shallowly... most people I meet don't know how much power it has held within... I am using it for learning, earning and productivity... over the last year I learned affiliate marketing mostly through smartphone as it was my side hustle...now as it is yielding profits every now and then... I thought it is high time to share my know-how with the world...through this blog...
-  
+    Content: Hi, This is Shafat M. Thanks for visiting my blog. Every day I spend a significant portion of my time on my smartphone. I know how dear and important this little device is to me and also to a lot of people like me... still it is surprising that most people are using it the same way, very shallowly... they don't know how much power it has held within... I am using it for learning, earning and productivity... over the last year I learned affiliate marketing mostly through smartphone as it was my side hustle...now as it is yielding profits every now and then... I thought it is high time to share my know-how with the world...through this blog...
+  ShowShareButtons: true
+
+  assets:
+    favicon: "/images/favicons/favicon.ico"
+    favicon16x16:  "/images/favicons/favicon-16x16.png"
+    favicon32x32:  "/images/favicons/favicon-32x32.png"
+    apple_touch_icon:  "/images/favicons/apple-touch-icon.png"
+
+
   socialIcons:
     - name: "facebook"
       url: "https://www.facebook.com/allthrusmartphone"
   
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true

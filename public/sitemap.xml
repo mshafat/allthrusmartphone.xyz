@@ -2,32 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://allthrusmartphone.netlify.app/tags/about/</loc>
+    <loc>https://allthrusmartphone.xyz/</loc>
+    <lastmod>2023-07-11T22:26:18+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/posts/my_3rd_post_archetype/</loc>
+    <lastmod>2023-07-11T22:26:18+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/posts/</loc>
+    <lastmod>2023-07-11T22:26:18+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/blog/</loc>
+    <lastmod>2023-07-11T03:29:02+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/blog/my_2nd_post_archetype/</loc>
+    <lastmod>2023-07-11T03:29:02+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/blog/my_first_test_archetype/</loc>
+    <lastmod>2023-07-11T03:15:30+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/tags/about/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/posts/about-author/</loc>
+    <loc>https://allthrusmartphone.xyz/about/about-author/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/posts/about-site/</loc>
+    <loc>https://allthrusmartphone.xyz/about/about-site/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/</loc>
+    <loc>https://allthrusmartphone.xyz/about/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/categories/</loc>
+    <loc>https://allthrusmartphone.xyz/categories/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/categories/intro/</loc>
+    <loc>https://allthrusmartphone.xyz/categories/intro/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/posts/</loc>
+    <loc>https://allthrusmartphone.xyz/legal/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/tags/</loc>
+    <loc>https://allthrusmartphone.xyz/legal/privacy_policy/</loc>
     <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/archives/</loc>
+    <loc>https://allthrusmartphone.xyz/tags/</loc>
+    <lastmod>2023-07-03T22:05:14+06:00</lastmod>
   </url><url>
-    <loc>https://allthrusmartphone.netlify.app/search/</loc>
+    <loc>https://allthrusmartphone.xyz/legal/terms_and_conditions/</loc>
+    <lastmod>2023-07-03T22:05:14+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/legal/disclaimers/</loc>
+    <lastmod>2023-07-03T22:04:23+06:00</lastmod>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/archives/</loc>
+  </url><url>
+    <loc>https://allthrusmartphone.xyz/search/</loc>
   </url>
 </urlset>

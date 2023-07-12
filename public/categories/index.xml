@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on AllThruSmartphone</title>
-    <link>https://allthrusmartphone.netlify.app/categories/</link>
+    <link>https://allthrusmartphone.xyz/categories/</link>
     <description>Recent content in Categories on AllThruSmartphone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2023 22:05:14 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 22:05:14 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro</title>
-      <link>https://allthrusmartphone.netlify.app/categories/intro/</link>
+      <link>https://allthrusmartphone.xyz/categories/intro/</link>
       <pubDate>Mon, 03 Jul 2023 22:05:14 +0600</pubDate>
       
-      <guid>https://allthrusmartphone.netlify.app/categories/intro/</guid>
+      <guid>https://allthrusmartphone.xyz/categories/intro/</guid>
       <description></description>
     </item>
     

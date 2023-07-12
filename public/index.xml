@@ -1,49 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AllThruSmartphone</title>
-    <link>https://allthrusmartphone.netlify.app/</link>
+    <link>https://allthrusmartphone.xyz/</link>
     <description>Recent content on AllThruSmartphone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2023 22:05:14 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 22:26:18 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_3rd_post_archetype</title>
+      <link>https://allthrusmartphone.xyz/posts/my_3rd_post_archetype/</link>
+      <pubDate>Tue, 11 Jul 2023 22:26:18 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/posts/my_3rd_post_archetype/</guid>
+      <description>Hey This is Shafat I want to tell you that it is just a test page
+I don&amp;rsquo;t want to bother people with my content Yeah this is me</description>
+    </item>
+    
+    <item>
+      <title>My_2nd_post_archetype</title>
+      <link>https://allthrusmartphone.xyz/blog/my_2nd_post_archetype/</link>
+      <pubDate>Tue, 11 Jul 2023 03:29:02 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/blog/my_2nd_post_archetype/</guid>
+      <description>Welcome You know i&amp;rsquo;m the author of the blog Hey This is Shafat I am happy to make this first post&amp;hellip;
+Who I&amp;rsquo;m? I live in Bangladesh
+Why do you care? I know how to make money online</description>
+    </item>
+    
+    <item>
+      <title>My First Test Archetype</title>
+      <link>https://allthrusmartphone.xyz/blog/my_first_test_archetype/</link>
+      <pubDate>Tue, 11 Jul 2023 03:15:30 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/blog/my_first_test_archetype/</guid>
+      <description>Welcome You know i&amp;rsquo;m the author of the blog Hey This is Shafat I am happy to make this first post&amp;hellip;
+Who I&amp;rsquo;m? I live in Bangladesh
+Why do you care? I know how to make money online</description>
+    </item>
+    
     <item>
       <title>About the author</title>
-      <link>https://allthrusmartphone.netlify.app/posts/about-author/</link>
+      <link>https://allthrusmartphone.xyz/about/about-author/</link>
       <pubDate>Mon, 03 Jul 2023 22:05:14 +0600</pubDate>
       
-      <guid>https://allthrusmartphone.netlify.app/posts/about-author/</guid>
+      <guid>https://allthrusmartphone.xyz/about/about-author/</guid>
       <description>Shafat M. I am the author of this blog from Bangladesh&amp;hellip;here are some facts about me:
 I am a millennial, born in 1990&amp;hellip; I am a smartphone, tech, open source, management, productivity and currently online marketing enthusiast&amp;hellip; I completed BBA and MBA in Human Resources Management&amp;hellip; I have grown up with computer since 2000 and with smartphone since 2016&amp;hellip; I used solely Linux OS (KDE Neon) in my home PC for 3+ years (2020-2023)&amp;hellip; I work at a charity not for making money but for serving entirely&amp;hellip; I have started learning a side hustle in May 2022 to make some money at my leisure&amp;hellip; I have helped hundreds of newbies to learn affiliate marketing from my free resources and guidance since then&amp;hellip; </description>
     </item>
     
     <item>
       <title>About the blog</title>
-      <link>https://allthrusmartphone.netlify.app/posts/about-site/</link>
+      <link>https://allthrusmartphone.xyz/about/about-site/</link>
       <pubDate>Mon, 03 Jul 2023 22:05:14 +0600</pubDate>
       
-      <guid>https://allthrusmartphone.netlify.app/posts/about-site/</guid>
+      <guid>https://allthrusmartphone.xyz/about/about-site/</guid>
       <description>allthrusmartphone.xyz A smartphone lifestyle focused blog authored by Shafat M.
 Slowly and steadily we are moving towards a world where our smartphones will dominate everything &amp;ndash; from our life to our education to our business. Through this blog, the author is going to educate and inspire Gen X, Y and Z on how to use this little workhorse for learning, earning, and productivity so that they can better prepare themselves for the future.</description>
     </item>
     
     <item>
-      <title>Archives</title>
-      <link>https://allthrusmartphone.netlify.app/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Privacy Policy</title>
+      <link>https://allthrusmartphone.xyz/legal/privacy_policy/</link>
+      <pubDate>Mon, 03 Jul 2023 22:05:14 +0600</pubDate>
       
-      <guid>https://allthrusmartphone.netlify.app/archives/</guid>
-      <description>archives</description>
+      <guid>https://allthrusmartphone.xyz/legal/privacy_policy/</guid>
+      <description>At AllThruSmartphone, accessible from allthrusmartphone.xyz, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by AllThruSmartphone and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in AllThruSmartphone.</description>
     </item>
     
     <item>
-      <title>Search</title>
-      <link>https://allthrusmartphone.netlify.app/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Terms and Conditions</title>
+      <link>https://allthrusmartphone.xyz/legal/terms_and_conditions/</link>
+      <pubDate>Mon, 03 Jul 2023 22:05:14 +0600</pubDate>
       
-      <guid>https://allthrusmartphone.netlify.app/search/</guid>
-      <description>search</description>
+      <guid>https://allthrusmartphone.xyz/legal/terms_and_conditions/</guid>
+      <description>Welcome to AllThruSmartphone!
+These terms and conditions outline the rules and regulations for the use of AllThruSmartphone&amp;rsquo;s Website, located at allthrusmartphone.xyz.
+By accessing this website we assume you accept these terms and conditions. Do not continue to use AllThruSmartphone if you do not agree to take all of the terms and conditions stated on this page.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: &amp;ldquo;Client&amp;rdquo;, &amp;ldquo;You&amp;rdquo; and &amp;ldquo;Your&amp;rdquo; refers to you, the person log on this website and compliant to the Company&amp;rsquo;s terms and conditions.</description>
     </item>
+    
+    <item>
+      <title>Disclaimers</title>
+      <link>https://allthrusmartphone.xyz/legal/disclaimers/</link>
+      <pubDate>Mon, 03 Jul 2023 22:04:23 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/legal/disclaimers/</guid>
+      <description>Disclaimers for AllThruSmartphone All the information on this website - allthrusmartphone.xyz - is published in good faith and for general information purpose only. AllThruSmartphone does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (AllThruSmartphone), is strictly at your own risk. AllThruSmartphone will not be liable for any losses and/or damages in connection with the use of our website.</description>
+    </item>
+    
+    
     
   </channel>
 </rss>
