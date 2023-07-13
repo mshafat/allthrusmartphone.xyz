@@ -5,7 +5,7 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
-categories: ["Learn"]
+categories: ["Learn", "Intro"]
 ---
 
 As I shared in the About page, I'm an open source enthusiast. I love those free and open source projects. But what it means for you? and why should you care? 

@@ -5,7 +5,8 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
-categories: ["Learn"]
+categories: ["Learn", "Intro"]
+tags: ["mindset"]
 ---
 
 If you ever tried make money online, you would know that how crazy the market is. Most vendors are launching shiny objects every now and then to attract new people, make more sale. Most newbies are trying to make sale and sale only. All of these will feel like an ecommerce site where people come to buy and vendors offers products. But this is not an ecommerce business. Make money online with affiliate marketing is based on transformation and long term strategies. I'm following two principels that I think are a must if anyone wants to make money online with affiliate marketing. They are:
