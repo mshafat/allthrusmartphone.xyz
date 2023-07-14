@@ -53,6 +53,7 @@ params:
     Title: Welcome
     Content: Hi, This is Shafat M. Thanks for visiting my blog. Every day I spend a significant portion of my time on my smartphone. I know how dear and important this little device is to me and also to a lot of people like me... still it is surprising that most people are using it the same way, very shallowly... they don't know how much power it has held within... I am using it for learning, earning and productivity... over the last year I learned affiliate marketing mostly through smartphone as it was my side hustle...now as it is yielding profits every now and then... I thought it is high time to share my know-how with the world...through this blog...
   ShowShareButtons: true
+  Description: A smartphone-lifestyle-inspired blog. Know how to use smartphones for learning, earning, and productivity with a smartphone-friendly side hustle.
 
   assets:
     favicon: "/images/favicons/favicon.ico"
