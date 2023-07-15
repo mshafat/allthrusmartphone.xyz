@@ -13,7 +13,7 @@ cover:
     alt: cliqly review
     caption: my honest cliqly review
 ---
-> Update (15 June 2023): Aweber started blocking email containing the word "Cliqly" inside and they are *restricting* the senders accounts. Today someone who used Aweber to promote cliqly mentioned this news in a group with Awber's official statement. So beware if you are considering to use Aweber to promote Cliqly.  
+> Update (15 June 2023): Aweber started blocking email containing the word "Cliqly" inside and they are *restricting* the senders accounts. Today someone who used Aweber to promote cliqly mentioned this news in a group with Aweber's official statement. So beware if you are considering to use Aweber to promote Cliqly.  
 
 I gave Cliqly a trial back in May 2023...
 

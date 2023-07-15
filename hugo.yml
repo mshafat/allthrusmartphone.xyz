@@ -6,10 +6,6 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 10
     - identifier: categories
       name: Categories
       url: /categories/
@@ -65,6 +61,8 @@ params:
   socialIcons:
     - name: "facebook"
       url: "https://www.facebook.com/allthrusmartphone"
+    - name: "email"
+      url: "mailto:support@allthrusmartphone.xyz"
   
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
