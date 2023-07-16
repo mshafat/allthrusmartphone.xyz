@@ -6,7 +6,7 @@ ShowReadingTime: true
 ShowToc: true
 draft: false
 categories: ["Learn"]
-tags: ["affiliate marketing"]
+tags: ["opportunity"]
 Summary: I have mentioned 7 reasons why I think affilaite marketing is a smartphone-friendly side hustle and why I recommend it over other side hustles to begin with.
 
 cover: 
@@ -27,4 +27,4 @@ There are a few reasons why I think it is smartphone-friendly and why I think yo
 6. It is performance based which means if you can't make sale you can't make money. It literally position youself at the driver seat of the business. I have learned a lot of entreprenurial mindset and productivity tips while doing the business in last year that I couldn't learn even being a business school graduate. It was possible because it's performance-based model...
 7. It equips you with invaluable knowledge on the market, traffic and sales which are the backbone of any successful online business you may want to start later on...
 
-I love affiliate marketing for the above reasons and you can see why it is smartphone-friendly business model. If you need more clarity on the business, I have made a `clarity doc` which can be accessed from the top menu bar of this site. I have made it 
+I love affiliate marketing for the above reasons and you can see why it is smartphone-friendly business model. If you need more clarity on the business, I have made a `clarity doc` which can be accessed from the top menu bar of this site. I have made it based on my 1+ years experience in doing it the right way. If you are an action taker I strongly recommend you to find the "clarity doc" from my the top menu items. 
