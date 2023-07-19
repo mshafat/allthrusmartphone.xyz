@@ -6,7 +6,16 @@
     <description>Recent content in Categories on AllThruSmartphone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2023 02:06:00 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 02:46:30 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn</title>
+      <link>https://allthrusmartphone.xyz/categories/learn/</link>
+      <pubDate>Mon, 17 Jul 2023 02:46:30 +0600</pubDate>
+      
+      <guid>https://allthrusmartphone.xyz/categories/learn/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Reviews</title>
       <link>https://allthrusmartphone.xyz/categories/reviews/</link>
@@ -22,15 +31,6 @@
       <pubDate>Thu, 13 Jul 2023 02:53:35 +0600</pubDate>
       
       <guid>https://allthrusmartphone.xyz/categories/intro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn</title>
-      <link>https://allthrusmartphone.xyz/categories/learn/</link>
-      <pubDate>Thu, 13 Jul 2023 02:53:35 +0600</pubDate>
-      
-      <guid>https://allthrusmartphone.xyz/categories/learn/</guid>
       <description></description>
     </item>
     
