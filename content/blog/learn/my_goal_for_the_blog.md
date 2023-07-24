@@ -5,7 +5,7 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
-categories: ["Learn", "Intro"]
+categories: ["Intro"]
 ---
 
 I am imagining a future where smartphone will replace PCs in most tasks we do at present. I see the potential of smartphone -- it can be deployed everywhere, even in remote location... I have seen many places in my country where there are people using smartphones to stay connected but we can't give a PC to those areas. 

@@ -6,7 +6,7 @@ ShowReadingTime: true
 ShowToc: true
 draft: false
 categories: ["Learn"]
-tags: ["opportunity"]
+tags: ["opportunity", "affiliate marketing"]
 Summary: I have mentioned 7 reasons why I think affilaite marketing is a smartphone-friendly side hustle and why I recommend it over other side hustles to begin with.
 
 cover: 

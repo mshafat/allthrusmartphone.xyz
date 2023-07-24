@@ -5,6 +5,8 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
+categories: ["Learn"]
+tags: ["affiliate marketing"]
 
 cover: 
     image: images/photos/start_affiliate_marketing.png

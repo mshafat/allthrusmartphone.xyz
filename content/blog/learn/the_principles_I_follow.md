@@ -5,7 +5,7 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
-categories: ["Learn", "Intro"]
+categories: ["Intro"]
 tags: ["mindset"]
 ---
 

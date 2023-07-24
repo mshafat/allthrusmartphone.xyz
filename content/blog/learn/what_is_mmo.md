@@ -6,7 +6,7 @@ ShowReadingTime: true
 ShowToc: true
 draft: false
 categories: ["Learn"]
-tags: ["mindset"]
+tags: ["mindset", "affiliate marketing"]
 cover: 
     image: images/photos/make_money_online.png
     alt: Elaboration of MMO
