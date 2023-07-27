@@ -26,7 +26,7 @@ Above I mentioned the Facebook ads on 7-figure email system. It is a $4.79 produ
 ## The Copywriter's Comment
 ![The comment on Facebook Ads](/images/screenshots/7-figure_email_system_fb_ads_comments.jpeg "the comment of a copywriter got most impressions")
 
-So, exact comment that  I want you to look for is from a copywriter named Nico Sanchez. He is a copywriter who has a brand named "Copy Nomad"... and I guess he has a good reputation and following...
+So, the exact comment that  I want you to look for is from a copywriter named Nico Sanchez. He is a copywriter who has a brand named "Copy Nomad"... and I guess he has a good reputation and following...
 
 He purchased the $4.79 product and shared his experience in the comment:
 > "initially bought this cause it it's clearly an AC funnel... gotta say as a copywriter with 10+ years experience I'm pleasantly surprised by the quality. Lots of stuff I use, but also great new stuff I want to implement." - Nico Sanchez
@@ -44,7 +44,7 @@ I want you always remember this ads and the copywriter's comment to answer the q
 4. He shared his *initial* expectation and *real* experience in *natural* language
 5. The 2 people who readily bought the product must be a *follower* of the copywriter, so they have the trust on him...
 6. The 3rd person who asked for further opinion, might not be following him, but he got *persuaded* by either the comment of the copywriter (he mentioned that he has 10+ years experience) or the other two people who purchased it based on the copywriter's recommendation.
-7. The copywriter shared his surpsise on the *quality* of the product. 
+7. The copywriter shared his surprise on the *quality* of the product. 
 
 
 ## My Takeaways
