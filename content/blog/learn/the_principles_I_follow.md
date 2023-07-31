@@ -17,7 +17,7 @@ I believe in this principle because I love the following quote:
 
 > “You can have everything you want in life if you help enough other people get what they want out of life.” - Jim Rohn
 
-It is so amazing. I have found the proof of it again and again, whenever I reveals my best secrets, strategies with people, immediately I came to know a better secrets, better strategeis from someone else or in the form of an epiphany. 
+It is so amazing. I have found the proof of it again and again, whenever I reveals my best secrets, strategies with people, immediately I came to know a better secrets, better strategies from someone else or in the form of an epiphany. 
 
 2. What you say is what you do
 
