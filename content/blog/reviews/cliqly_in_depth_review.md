@@ -125,16 +125,17 @@ If someone you referred to Cliqly upgrades with $97 you will get 100% commission
 
 I have even [a better opportunity](https://lazycommissions.com/shafat) which is *really* free on front end and if you pay for special license you can receive 100% commission on all the current upsells. 
 
-## Why 100% commission is helping Cliqly to scale so much?
-There are a few possible reasons, but mostly the target audience: 
+## Who are the target customer of Cliqly?
+I have found some common characteristics of people who are using Cliqly: 
 - Most people who are using Cliqly are newbies to make money online
 - Most of them don't have any technical know-how to operate a business online
-- Most people don't want to do put the time and effort required when it comes to make money online
+- Many of them don't want to put the time and effort required when it comes to make money online
+- Finally they have idle money to invest
 
 Cliqly has given a lot of these people the first hand experience to make money online. You start the trial, send the emails in 5 to 10 minutes and after 24 hours you see $5-15 in your account. Which has a great impact on people's psychology to invest into the system. 
 
 ## Is Cliqly a scam?
-If I consider the sales video, Cliqly is a total scame. But in terms of paying the eligible customers their commission, it is not a scam, at least not yet. But to be honest, I am highly skeptical of this business, it makes no sense to me and if my 6th sense is right Cliqly will stop paying sooner or later or FTC will ban the business. 
+If I consider the sales video, Cliqly is a total scam. But in terms of paying the eligible customers their commission, it is not a scam, at least not yet. But to be honest, I am highly skeptical of this business, it makes no sense to me and if my 6th sense is right Cliqly will stop paying sooner or later or FTC will ban the business. 
 
 
 ## Who is Cliqly for?
@@ -158,7 +159,7 @@ I have talked with a few folks in Cliqly, most of those people are not in profit
 - Some people who are using Cliqly started getting the mass generic pre-written email from other users and even their own email as well. It slightly proves that Cliqly is indeed delivering some of the emails, but how much and who's?
 - The support system of Cliqly is not responsive. You may have to email them several times to get a response. 
 ![Cliqly support](/images/photos/cliqly_support.jpeg "cliqly support is not responsive for weeks sometimes")
-- One guy who is currently in profit with Cliqly (staying from the begining) remarked it right about Cliqly list building and in my opinion the same remark applies to Cliqly in general -- "it is just another game of chance".
+- Finally one guy who is currently in profit with Cliqly (staying from the begining) gave a remark on Cliqly list building and I think the same remark applies to Cliqly in general -- "it is just another game of chance".
 
 ## Final thought
 Cliqly is not an email marketing business. It is just an investment scheme in disguise of email marketing or CPA marketing. It feels more like a Ponzy scheme which is defined as:
