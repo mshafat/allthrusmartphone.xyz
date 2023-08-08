@@ -30,12 +30,12 @@ Based on their feedback I realized that I have to review Cliqly once again, base
 
 
 ## What is Cliqly?
-According to Bobby Jones, Cliqly is doing email business. He said there are millions of people who opt-in to get offers on business opportunities etc. Cliqly is serving to those millions of people. But they can't do it as email service providers won't allow one single account to send billions of email to millions of subscribers list. So, they made the system where thousands of people like you and I can send email from small accounts and Cliqly shares a portion of their CPA (Cost Per Actions) commission to us. While doing my research I heard that Cliqly earns $0.35 per click into their CPA offers, and shares $0.10 with us. This is what Bobby Jones says about Cliqly. I am going to share my own opinion throughout this review.  
+According to Bobby Jones, Cliqly is doing email business. He said there are millions of people who opt-in to get offers on business opportunities etc. Cliqly is serving to those millions of people. But they can't do it as email service providers won't allow one single account to send billions of email to millions of subscribers list. So, they made the system where thousands of people like you and I can send email from small accounts and Cliqly shares a portion of their CPA (Cost Per Actions) commission with us. While doing my research I heard that Cliqly earns $0.35 per click into their CPA offers, and shares $0.10 with us. This is what Bobby Jones says about Cliqly. I am going to share my own opinion throughout this review.  
 
 The sales page video of Cliqly starts saying this:
 > "Pay very close attention to every word in this video. I'm gonna walk you through the opportunity of a life-time to personally partner with me and start earning money immediately, all for free." 
 
-I have paid closed attention to every word two times and tried to find the truth of those words. the guy talking in the video introduced himself as Gary... and he also introduced 3 other success stories of Cliqly which includes Bobby's son Christian and daughter Devin. The 3rd one nammed Brittain, who is his friend's sister... I looked all them up in Cliqly official group and through general facebook search and couldn't find anyone relevant, may be they have different names there, idk. But based on the sales video I am very confident that what Cliqly is claiming is not true at all. 
+I have paid close attention to every word two times and tried to find the truth of those words. the guy talking in the video introduced himself as Gary... and he also introduced 3 other success stories of Cliqly which includes Bobby's son Christian and daughter Devin. The 3rd one nammed Brittain, who is his friend's sister... I looked all them up in Cliqly official group and through general Facebook search and couldn't find anyone relevant, may be they have different names there, idk. But based on the sales video I am very confident that what Cliqly is claiming is not true at all. 
 
 
 Let's break it down a bit... 
@@ -46,7 +46,7 @@ Let's break it down a bit...
 
 **Claim # 2:** Bobby has been working successfully online for 27 years
 
-**Truth:** I have got no trace of Bobby's 27 years with google search, although he has a Clickfunnel Two Comma Club award. I got [this Linkedin profile of Bobby Jones](https://www.linkedin.com/in/bobby-jones-916b3b1aa/), but there is no photo, no information expect "President at Cliqly.com"
+**Truth:** I have got no trace of Bobby's 27 years with google search, although he has a Clickfunnel Two Comma Club award. I got [this Linkedin profile of Bobby Jones](https://www.linkedin.com/in/bobby-jones-916b3b1aa/), but there is no photo, no information except "President at Cliqly.com"
 
 **Claim # 3:** It is completely real and completely free to get started
 
@@ -89,7 +89,7 @@ Whenever you send email with List Building Credits and someone opens your email 
 When you signed up, you will be given a 5000 openers list and 500,000 CliqlyPro credits to send email to the list. With 1 credit you can send 1 email and it will earn you $0.10 when someone clicks on the link. You can send and schedule emails in  batches of 5,000 and sending limit is 75,000 each day. Sending limits will increase with the upgrade of Tier. Will talk about the tier later on. 
 
 ## Is Cliqly FREE? 
-Because you are not providing your card details at the time of sign up, Cliqly won't cost you anything to start, but you can't actually go anywhere with this trial. You have to pay $97 to keep using it after the trial or you can't withdraw your commission. With the purchase of $97 will give you an additional 500,000 CliqlyPro Credits and an additional 200,000 List Building credits. You have to keep purchasing these credits if you continue sending emails on a regular basis otherwise the credits will run out and your journal will stop.  
+Because you are not providing your card details at the time of sign up, Cliqly won't cost you anything to start, but you can't actually go anywhere with this trial. You have to pay $97 to keep using it after the trial or you can't withdraw your commission. With the purchase of $97 will give you an additional 500,000 CliqlyPro Credits and an additional 200,000 List Building credits. You have to keep purchasing these credits if you continue sending emails on a regular basis otherwise the credits will run out and your journey will stop.  
 
 ## Threshold to withdraw commissions in Cliqly
 It is very important to note that paying $97 will make you eligible to withdraw your commission earned but there is another condition to be met to withdraw your commission -- Minimum Threshold. The minimum threshhold of withdrawal is a whooping $300. So, untill you reach that threshold don't think of seeing the commission in your bank account.  
@@ -110,20 +110,22 @@ Cliqly Tiers are based on how many subcribers or openers list you have and it is
 
 
 ## There are several upsells in Cliqly
-Aside from paying for credits, there are upsells and flash sells inside Cliqly, two of them are mentioned below: 
+Aside from paying for credits, there are upsells and flash sells inside Cliqly, three of them are mentioned below: 
 
 **Tier Jumper:** Occaisionally they offer this upsell, where you can buy 10k, 25k, and 50k subscribers list and jump your tier. 
 
-**My Inbox Pro:** It costs $97/month. With My Inbox Pro you can send 30,000 email each day to promote your own offer.
+**MyInboxPro:** With MyInBoxPro you can send your own offer and write your own email. There are several packages. Starter package costs $97/month. With $97/month you can send 30,000 email each day to promote your own offer to your openers list.
+
+**Co-Op:** With Co-Op program Cliqly also promotes your affilites link and guarantees referral. Eg. It takes $197 to get 20 referrals. 
 
 ## Why the hype around Cliqly?
 
-So, with everything I have discussed above, the big question can be what's reason for the Cliqly hype lately, here's the short answer: Affiliate Commission.
+So, with everything I have discussed above, the big question can be what's the reason for the Cliqly hype lately, here's the short answer: Affiliate Commission.
 
 ## Cliqly affiliate commission
 If someone you referred to Cliqly upgrades with $97 you will get 100% commission of that. You will get 5% commission for fothcoming purchases of credits and other upsells. That's all about the affiliate program so far. In fact, to me except the 100% commission of $97, the commission plan is not interesting at all. 
 
-I have even [a better opportunity](https://lazycommissions.com/shafat) which is *really* free on front end and if you pay for special license you can receive 100% commission on all the current upsells. 
+I have even [a better opportunity](https://lazycommissions.com/shafat) which is *completely* free on front end and if you pay for special license you can receive 100% commission on all the current upsells. 
 
 ## Who are the target customer of Cliqly?
 I have found some common characteristics of people who are using Cliqly: 
@@ -149,9 +151,9 @@ Cliqly is for you:
 If you are not like above, [check out this learning opportunity](https://lazycommissions.com/shafat) which is free on front end and also gives you 100% commission on upsells with special license. 
 
 ## This is what I have found after talking with those who are using Cliqly?
-I have talked with a few folks in Cliqly, most of those people are not in profit with the system, a few of those are in profit. One guy is earning $1500 every week with the system. Putting them all together here are some key insight of it:
+I have talked with a few folks in Cliqly, most of those people are not in profit with the system, a few of those are in profit. One guy is earning $1500 every week with the system. Putting them all together here are some key insights of it:
 - The list Cliqly is giving to people are only responsive inside the system
-- Even if email using Cliqly but you change the link containing in the pre-written email to your own offer, the click rate will suddenly fall down to zero. 
+- Even if you email from Cliqly but you change the link containing in the pre-written email to your own offer, the click rate will suddenly fall down to zero. 
 - The click rate is down from July and August and Bobby said it is because of the summar time in US and because most people are spending their holiday. 
 - Those people who are using Cliqly for last 2 years said that "summar fall" didn't happen last year, at least not in July and August. 
 - Other people reported no matter what time you spread your email to be sent, you always get the average clicks. This would not be the case if the list is US dominant. 
@@ -166,4 +168,4 @@ Cliqly is not an email marketing business. It is just an investment scheme in di
 A form of fraud that lures investors and pays profits to earlier investors with funds from more recent investors.
 
 ## My recommendation
-For obvious reasons, I can't recommend and promote Cliqly although I know it is easier to sell this type of opportunity to a large pool of audience. I like to make money by helping people, recommending people what is good for them. What I'm doing is affiliate marketing, and if you need more clarity on how to do it the right way, check my `clarity doc` from the top menu bar of this site. 
+For obvious reasons, I can't recommend and promote Cliqly although I know it is easier to sell this type of opportunity to a large pool of audience. I like to make money by helping people, recommending people what is good for them. And if you think the above review was helpful in some way, then I must have done something right. What I'm doing is affiliate marketing, and if you need more clarity on how to do it the right way, check my `clarity doc` from the top menu bar of this site. 
