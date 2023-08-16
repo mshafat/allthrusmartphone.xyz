@@ -15,6 +15,10 @@ cover:
     alt: cliqly in depth review
     caption: cliqly in-depth review
 ---
+> **Update (17-08-23):** Today, I got a VSL of a scam internet marketing business of 2019-2022. Bobby Jones were the owner of the program. The VSL script of that program matches exactly with Cliqly's. I have downloaded it from [Bobby Jone's Vimeo account](https://vimeo.com/337378317?fbclid=IwAR2TdcEPj3BcVBii15aNvyMsgj8QYHiAS_XtxpzKv0x_Bor96-u0DEL6vsY) and uploaded it to [my Youtube](https://youtu.be/LMpxKp9dTgk). So that the proof remains on the internet even if Bobby removes the video from his account. 
+
+> **Final Verdict:** Cliqly is 200% scam. Stay away from it before it starts massive scamming.
+
 
 Last month I made [a short review](https://allthrusmartphone.xyz/blog/reviews/cliqly_review/) on Cliqly Email Marketing side hustle. After I pushlished that post I also shared it with some folks who are promoting Cliqly. I got mixed opinion. Some of them diagreed to my findings. They told me, the girl who's case I reviewed started at the beginning of Cliqly, but Cliqly today is not what it was back then... 
 
