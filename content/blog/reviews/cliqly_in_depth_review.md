@@ -84,7 +84,7 @@ Let's break it down a bit...
 
 
 ## Getting started with Cliqly is FREE, but only for 5 days
-If you join Cliqly you will start with a 5-day FREE trial membership, where you will be given a 50000 email list to email. You can send email with Cliqly credits and there are two types of credits:
+If you join Cliqly you will start with a 5-day FREE trial membership, where you will be given a 5000 email list to email. You can send email with Cliqly credits and there are two types of credits:
 
 **Cliqly list building credits:**
 Whenever you send email with List Building Credits and someone opens your email that subscriber's email will be added to your existing 5000 openers list. That means you are building your list by each open. You can send and schedule email in a batch of 20,000 and sending limit is 40,000 each day.
