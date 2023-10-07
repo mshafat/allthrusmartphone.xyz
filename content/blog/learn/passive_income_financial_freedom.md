@@ -56,11 +56,11 @@ This is what Dan Lok wants us to remember:
 
 > Just because it is passive, doesn't mean it is permanent
 
-So even passive income is truth this is not something we should think of... Dan challenges that you won't find the word "passive income" in the vocabulary of the billionaires I mentioned above...just watch some of their interviews online and try to find the word...
+So even passive income is true this is not something we should think of... Dan challenges that you won't find the word "passive income" in the vocabulary of the billionaires I mentioned above...just watch some of their interviews online and try to find that word...
 
-So in a nutshell passive income is also a myth as in reality nothing is passive.. nobody follows a passive leader... you can't achieve a good health in passive way... anything worthwile can't be done passively...you have to work at it..
+So in a nutshell passive income is also a myth as in reality nothing is passive.. nobody follows a passive leader... you can't achieve a good health in passive ways... anything worthwile can't be done passively...you have to work at it..
 
-Here's Dan's interesting question to all of us...
+Dan poses an interesting question to all of us...
 
 > If passive health doesn't work, passive sex doesn't work...how would passive income work?
 
@@ -69,9 +69,9 @@ So the lesson Dan Lok wants us to remember:
 > Don't aim for passive income aim for leveraged income
 
 
-The workshope is full of golden nuggets, I just shared two of them....
+The workshope is full of golden nuggets, I shared just two of them....
 
-I highly recommend each one of you to watch the whole recording... it will going to blow your mind with values and shift your mindset...
+I highly recommend each one of you to watch the whole recording... it's going to blow your mind with values and shift your mindset...
 
 Heres the link to watch the workshop:
 https://www.youtube.com/watch?v=jmNdho2svuc
