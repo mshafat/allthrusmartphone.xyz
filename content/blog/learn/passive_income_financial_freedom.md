@@ -1,5 +1,5 @@
 ---
-title: "Passive income, Financial freedom: The Myth and The Reality"
+title: "Passive Income, Financial freedom: The Myth and The Reality"
 date: 2023-09-18T08:56:26+06:00
 author: ["Shafat M."]
 ShowReadingTime: true
