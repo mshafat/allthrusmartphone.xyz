@@ -18,12 +18,12 @@ Clickfunnel CEO, Russell Brunson is ready for his new venture. This time he is f
 Aparently Russell Brunson is going to do the same with "Secrets of Success". In this post I am going to uncover what's inside the program...
 
 
-**Facts Sheet:**
-Product Name: [Secrets of Success](http://www.secretsofsuccess.com/jv?afmc=4ef)
-Product Vendor: Russell Brunson (Clickfunnel CEO)
-Launch Date: October 19, 2023
-Initial Price: FREE (Only Pay Shipping Charge)
-Affiliate Opportunity: Yes with 40% Recurring Commissions [Click Here to Become an Affiliate](http://www.secretsofsuccess.com/jv?afmc=4ef)
+## Factsheet
+* Product Name: [Secrets of Success](http://www.secretsofsuccess.com/jv?afmc=4ef)
+* Product Vendor: Russell Brunson (Clickfunnel CEO)
+* Launch Date: October 19, 2023
+* Initial Price: FREE (Only Pay Shipping Charge)
+* Affiliate Opportunity: Yes with 40% Recurring Commissions [Click Here to Become an Affiliate](http://www.secretsofsuccess.com/jv?afmc=4ef)
 
 ## What is "Secrets of Success"?
 
@@ -33,9 +33,9 @@ The interesting thing is that Russell is leveraging Napoleon Hill who is known f
 
 At the front end of Secrets of Success is a gift box containing 3 of Napoleon Hill's books. This is what Russel shared regarding the back-story of it: 
 
-> 2 Year's ago I become mildly obsessed with old books. I started collecting all the first editions, first printings, first manuscripts of many cools books that I could find...
+> 2 Year's ago I become mildly obsessed with old books. I started collecting all the first editions, first printings, first manuscripts of many cool books that I could find...
 
-Russell republished some of the books himself by partnering with Napleon Hill Foundation. He invested unbelivably crazy amount to collect pre-version galley copies of "Law of Success" from a fan of Napoleon Hill and also to get the approval from Napoleon Hill Foundation to *publish and republish* some of Napoleon Hill's unknown and unknown books...
+Russell republished some of the books himself by partnering with Napleon Hill Foundation. He invested unbelivably crazy amount to collect pre-version galley copies of "Law of Success" from a fan of Napoleon Hill and also to get the approval from Napoleon Hill Foundation to *publish and republish* some of Napoleon Hill's known and unknown books...
 
 Yeah I write it right... Rusell is going to republish some of Hill's known and unknown books for us, including some books most people have never heard before...
 
@@ -48,7 +48,7 @@ These are the 3 Napoleon Hill books included in the Secret of Success Kit:
 But this is just the front end offer, which Russel is going to giveaway for free (only pay for shipping and handling) if anyone subscribes to the "membership site"...
 
 ## Secrets of Success Membership Site
-The main offer of Secrets of Success is the membership site which is based on subscription. And Russel has collected not only Napoleon Hill's unknown and unpublished books (like Hand of Destiny, Outwitting the Beasts) but also from other thought leaders that nowbody even remembers...All these will be included in the monthly subscription based membership sites which price hasn't disclosed it. But the site will feature those documents, information, training, coaching...
+The main offer of Secrets of Success is the membership site which is based on subscription. And Russel has collected not only Napoleon Hill's unknown and unpublished books (like Hand of Destiny, Outwitting the Beasts) but also from other thought leaders that nowbody even remembers...All these will be included in the monthly subscription based membership sites -- price of which hasn't disclosed yet. But the site will feature those documents, information, training, coaching...
 
 If anyone decides to subscribe for a year in advance, Russel has printed Nepopleon Hill's unpublished book "Hand of Destiny" and going to give a copy of the book for FREE. Russel said he collected this book from the fan of Napoleon Hill, and that guy used to charge $10,000/day just to read the book, which Russel bought from him for $5000/page! Pretty insane deal...
 
