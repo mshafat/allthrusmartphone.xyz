@@ -17,6 +17,8 @@ cover:
 ---
 > **Update (17-08-23):** Today, I got a VSL of a scam internet marketing business of 2019-2022. Bobby Jones were the owner of the program. The VSL script of that program matches exactly with Cliqly's. I have downloaded it from [Bobby Jone's Vimeo account](https://vimeo.com/337378317?fbclid=IwAR2TdcEPj3BcVBii15aNvyMsgj8QYHiAS_XtxpzKv0x_Bor96-u0DEL6vsY) and uploaded it to [my Youtube](https://youtu.be/LMpxKp9dTgk). So that the proof remains on the internet even if Bobby removes the video from his account. 
 
+> **Update (06-01-24):** It is 2024, and Cliqly is still scaming people. In last October 2023 Bobby started offering 60 days of coaching for $5400 to members. But people fail to ask question why things like this require even a coaching let alone high ticket? wasn't it as easy as sending pre-written email? Where's the catch? Hundreds of thousands of people are waiting for payments and support is not responsive at all to their queries. But you won't hear anything like that in Cliqly Official Facebook Group. Do you know why? Because it appears that the group automatically declines comments which include words "payment" and "support". I can easily guess Bobby's philosophy on payment and support from this single movement. What else you can expect? 
+
 > **Final Verdict:** Cliqly is 200% scam. Stay away from it before it starts massive scamming.
 
 

@@ -16,7 +16,7 @@ cover:
 
 I have a soft feeling for One Lead System Pixel aka OLSP System. Because my journey in Affiliate Marketing began with this platform. The story goes like this...
 
-I saw an sponsored ad on my Facebook which aroused my curiosity, so I clicked...
+I saw a sponsored ad on my Facebook which aroused my curiosity, so I clicked...
 I saw Wayne Crowe for the first time and he started talking something which I couldn't realize...
 So I clicked the cross button in the tab...
 And an offer popped up all of a sudden...
@@ -134,11 +134,10 @@ I have been with OLSP for 2+ years already, and I also purchased Magick Link 6 m
  I asked for the support on 16 December 2023 at 01:00am. And they replied 16 December 2023 at 1:15pm so within 12 hours. So I can say Wayne has a good full-time team to support his affiliates. 
 
 
-## Some intersting points worth mentioning about OLSP
+## Some intersting points worth mentioning about OLSP System
 I have followed OLSP over last 1.5+ year and I have collected the following interesting points worth mentioning about OLSP:
 - Wayne Crowe sometimes offers gifts for live attendees
 - OLSP follows a loss leader strategy with its front facing offers. (in a recent training Wayne said his average loss is $50 per customer)
-- But he monetizes
 - OLSP pays every week on Friday and it pays via Wise or Paypal
 - Wayne's team calls every person who purchase $7 front end if they put their phone number at the time of purchase. 
 - Wayne uses some white label products to offer to his clients. Eg. TD Page is a white label SaaS of Wishloop and Mega Messenger is a white label of EL Messenger Pro. 
@@ -151,5 +150,5 @@ OLSP has 2 tier commission plan for Mega Builders and Team Builders. But it is n
 
 
 ## Do I Recommend OLSP?
-At the begining I said I have a *soft* feeling for OLSP, because it introduced me Affiliate Marketing for the first time, otherwise I would never know the good, bad and ugly world of affiliate marketing and couldn't meet so many awesome people and marketers around the world. So I recommend OLSP, but I would recommend it *softly*. What I mean, I would only recommend it to people interesting in Biz Opp. You can learn affiliate marketing by promoting OLSP as a business opportunity. But understand that to make good money from it and unlock 2nd tier commission, you have to invest in mega builders or team builders. If you are the type of person, then go ahead and [join OLSP](https://olspsystem.com/join/794916).  But if you are like me, who is not biz opp type person but interested in learning affiliate marketing to make money online as a side hustle and even from your smartphone, then I have a **[clarity doc](https://rebrand.ly/clarity-doc)** for you where I described how I am doing the business at present and how you can do it the right way.  
+At the begining I said I have a *soft* feeling for OLSP, because it introduced me Affiliate Marketing for the first time, otherwise I would never know the good, bad and ugly world of affiliate marketing and couldn't meet so many awesome people and marketers around the world. So I recommend OLSP, but I would recommend it *softly*. What I mean, I would only recommend it to people interesting in Biz Opp. You can learn affiliate marketing by promoting OLSP as a business opportunity, I learned a lot from it. But understand that to make good money from it and unlock 2nd tier commission, you have to invest in mega builders or team builders. If you are the type of person, then go ahead and [join OLSP](https://olspsystem.com/join/794916).  But if you are like me, who is not biz opp type person but interested in learning affiliate marketing to make money online as a side hustle and even from your smartphone, then I have a **[clarity doc](https://rebrand.ly/clarity-doc-ats)** for you where I described how I am doing the business at present and how you can do it the right way.  
 
