@@ -86,6 +86,7 @@ Systeme.io Home Page clearly states it is free forever and below the pop up it i
 
 Aside from the ambiguity in marketing message, I have found everything is great in Systeme.io.
 
+> **Update 15/01/2024:** Someone I admire a lot in this space went through my post (I'm honestly glad that he did) and remarked that he doesn't think there's any mismatch in saying "Limited Time" and "Free Forever" at the same place. The thing is, you can grab Free Forever plan for Limited Time only, that's the point. Which also means, those who join later may not get this plan. So, I think it is a good explanation of the promotion. 
 
 ## Do I Recommend Systeme.io?
 
