@@ -81,12 +81,12 @@ Pretty easy task, all you need is click Comment Dominator Pro and scroll a littl
 ## Mega Link Vs Magick Link 
 People tend to misunderstand this but Magick link is not the same as Mega Link. You have to purchase Magick Link seperately if you want to make money with it. The price for Magick Link is $47 one-time and you will get 100 click solo ad run with the purchase. For each click to your Magcik Link from Wayne's Traffic you will earn $0.3 in commission. Yeah you have to use Wayne's traffic to get the commission. And Wayne's solo ads usually costs $0.9/click. Wayne promotes the Magick Link as List Building Training because he encourages people to get the opt-in first with TD Pages and then get the click in 2nd step. You have to configure the opt-in or squeeze page in a way that when someone opts in he/she will be redirected to a random offer through your Magick Link. 
 
-## https://systeme.io/?sa=sa00300702375afbe96ffe9694363e368653803c48Magick Link's Implication to Wayne's Solo Ads Clients
+## Magick Link's Implication to Wayne's Solo Ads Clients
 Wayne is a solo ad vendor and from my research I have found that Wayne promotes his solo ad clients' offers through the Magick Link Rotators. A solo ad guy who also happened to buy solo ads from Wayne Crowe to promote a different product reported when clicked several times to Magick Link he has found Wayne rotated the link he gave Wayne to promote. 
 
 
 ## OLSP Upsells
-Aside from the above mentioned Magick Link and Mega Link and softwares, OLSP offers somhttps://systeme.io/?sa=sa00300702375afbe96ffe9694363e368653803c48e other upsells. They are discussed here: 
+Aside from the above mentioned Magick Link and Mega Link and softwares, OLSP offers some other upsells. They are discussed here: 
 
 **Traffic Rotator:** When someone purchase Traffic Rotator for $47/month his Magic Link will be placed in a traffic rotator. This way he can build his list while getting gurranteed commission. But remember the list built that way is called "cold list" and requires time to build know, like and trust from your part. 
 
