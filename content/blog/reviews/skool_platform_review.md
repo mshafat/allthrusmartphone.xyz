@@ -5,8 +5,8 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
-categories: ["Learn", "Earn", "Be Productive", "Reviews", "Intro"]
-tags: ["affiliate marketing", "traffic and conversion", "mindset", "method", "opportunity"]
+categories: ["Reviews"]
+tags: ["opportunity"]
 
 cover: 
     image: images/photos/skool_review.png
