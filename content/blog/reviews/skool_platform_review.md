@@ -13,6 +13,7 @@ cover:
     alt: skool review
     caption: Facebook group alternative skool review
 ---
+> **Update (20-01-2023)**: Hormozi started showing his magic for skool and he just launched "skool games". Skool games will help anyone who doesn’t have a proven offer, an audience, or any specific expertise a way to start their own business and make money!
 
 From last week, I am seeing a disucssion emerging around an online community and course hosting platform. Many online marketers who were monetizing facebook groups are transitioning their facebook groups to that platform. And the name of the platform is **skool**. In this review post I will try to uncover the reasons why they are doing so. Let's start...
 

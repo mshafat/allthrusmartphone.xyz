@@ -38,6 +38,17 @@ A funnel builder is a software to aumotate the journey you are mapping for your 
 
 So, I am using systeme.io to build my funnel. It is not only a funnel builder, it also has its own email marketing software in-built into the system. So you don't need to use getresponse, aweber, mailchimp or any 3rd party autoresponder if you use systeme.io. To my daily use I have found it very user-friendly. Let's see what you can do with systeme.io. 
 
+## Systeme.io Dashboard
+
+After login Systeme.io will greet you with a very simple page like the following: 
+![Systeme.io Dashboard](/images/screenshots/systemeio_dashboard.png)
+
+I like the simple dashboard of Systeme.io. It shows me my leads stat in last 30 days. 
+
+If I hover over to any lead's email address it shows some more information of the lead. It is a very nifty feature:
+
+![Systeme.io Leads Details](/images/screenshots/systemeio_leads_country.png)
+
 ## Build a Funnel with Systeme.io
 
 You can build awesome sales funnels using systeme.io. Once you log in to your dashboard see top menu bar and click Funnels from where you will find the `Create` button to start building your funnel. 
@@ -55,7 +66,10 @@ As I said previously, Systeme.io has built-in email marketing feature. You don't
 
 Likewise Funnels, Email Marketing features can be accessed from top menu. You can set up automated email sequences inside `Campaign` section and broadcast email from `Newsletters` section. 
 
-What I like about this email service is that you can store 2000 email addresses in systeme.io and send unlimited email to your list. You can also see the stats of your email, Systeme.io won't restrict you from seeing your stat, even in free plan. 
+What I like about this email service is that you can store 2000 email addresses in systeme.io and send unlimited email to your list. You can also see the stats of your email, Systeme.io won't restrict you from seeing your stat, even in free plan. You can also set 1 automation with a many email sequences as you want and 1 tag in the free version. You can see each email's stat without any restriction and expiration and would look like as follows:
+
+![Systeme.io Email Statistics](/images/screenshots/email_statistics_systemeio.png)
+
 
 ## What else can you do with Systeme.io
 
