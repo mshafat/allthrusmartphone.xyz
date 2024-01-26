@@ -27,7 +27,7 @@ Let's try...
 
 ## What's a Front End?
 
-A front end is an offer by which businesses aquire new customers. That is the front facing part of the whole business. In real life example, relate it with an amusement park where there usually have an offer like you can enter free with your kids ticket for free or with 50% discount ticket. That is the front end offer. But you know or should know that inside the amusement park there are many rides and each requires indivial ticket. 
+A front end is an offer by which businesses aquire new customers. That is the front facing part of the whole business. In real life example, relate it with an amusement park where there usually have an offer like you can enter free with your kids ticket for free or with 50% discount ticket. That is the front end offer. But you know or should know that inside the amusement park there are many rides and each requires individual ticket. 
 
 
 ## What's an Upsell?

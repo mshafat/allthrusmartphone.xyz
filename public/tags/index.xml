@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AllThruSmartphone</title>
     <link>https://allthrusmartphone.xyz/tags/</link>
     <description>Recent content in Tags on AllThruSmartphone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2024 22:16:01 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>opportunity</title>
-      <link>https://allthrusmartphone.xyz/tags/opportunity/</link>
-      <pubDate>Mon, 08 Jan 2024 22:16:01 +0600</pubDate>
-      
-      <guid>https://allthrusmartphone.xyz/tags/opportunity/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 Jan 2024 12:07:32 +0600</lastBuildDate>
+    <atom:link href="https://allthrusmartphone.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>affiliate marketing</title>
       <link>https://allthrusmartphone.xyz/tags/affiliate-marketing/</link>
-      <pubDate>Mon, 11 Dec 2023 14:24:04 +0600</pubDate>
-      
+      <pubDate>Mon, 22 Jan 2024 12:07:32 +0600</pubDate>
       <guid>https://allthrusmartphone.xyz/tags/affiliate-marketing/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>traffic and conversion</title>
+      <link>https://allthrusmartphone.xyz/tags/traffic-and-conversion/</link>
+      <pubDate>Mon, 22 Jan 2024 12:07:32 +0600</pubDate>
+      <guid>https://allthrusmartphone.xyz/tags/traffic-and-conversion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>opportunity</title>
+      <link>https://allthrusmartphone.xyz/tags/opportunity/</link>
+      <pubDate>Mon, 15 Jan 2024 22:05:01 +0600</pubDate>
+      <guid>https://allthrusmartphone.xyz/tags/opportunity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>mindset</title>
       <link>https://allthrusmartphone.xyz/tags/mindset/</link>
       <pubDate>Mon, 11 Dec 2023 14:24:04 +0600</pubDate>
-      
       <guid>https://allthrusmartphone.xyz/tags/mindset/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>traffic and conversion</title>
-      <link>https://allthrusmartphone.xyz/tags/traffic-and-conversion/</link>
-      <pubDate>Mon, 21 Aug 2023 17:32:25 +0600</pubDate>
-      
-      <guid>https://allthrusmartphone.xyz/tags/traffic-and-conversion/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>method</title>
       <link>https://allthrusmartphone.xyz/tags/method/</link>
       <pubDate>Mon, 24 Jul 2023 07:55:16 +0600</pubDate>
-      
       <guid>https://allthrusmartphone.xyz/tags/method/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>about</title>
       <link>https://allthrusmartphone.xyz/tags/about/</link>
       <pubDate>Mon, 03 Jul 2023 22:05:14 +0600</pubDate>
-      
       <guid>https://allthrusmartphone.xyz/tags/about/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

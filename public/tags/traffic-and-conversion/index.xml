@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>traffic and conversion on AllThruSmartphone</title>
     <link>https://allthrusmartphone.xyz/tags/traffic-and-conversion/</link>
     <description>Recent content in traffic and conversion on AllThruSmartphone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2023 17:32:25 +0600</lastBuildDate><atom:link href="https://allthrusmartphone.xyz/tags/traffic-and-conversion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jan 2024 12:07:32 +0600</lastBuildDate>
+    <atom:link href="https://allthrusmartphone.xyz/tags/traffic-and-conversion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Concept of Front End, Upsell and Downsell in Online Marketing</title>
+      <link>https://allthrusmartphone.xyz/blog/learn/frontend_upsell_downsell/</link>
+      <pubDate>Mon, 22 Jan 2024 12:07:32 +0600</pubDate>
+      <guid>https://allthrusmartphone.xyz/blog/learn/frontend_upsell_downsell/</guid>
+      <description>In online marketing we often hear these terms &amp;ndash; upsell, downsell and front end. Most newbies get confused by these jargons. I have found many of my leads even fail to skip an optional upsell to get into the free offer I have presented to them&amp;hellip;
+When I asked why you didn&amp;rsquo;t take the free offer, they usually reply like the following:
+I see this is a very common and frequent case in unaware segment.</description>
+    </item>
     <item>
       <title>Traffic vs Lead and Selling vs Closing</title>
       <link>https://allthrusmartphone.xyz/blog/learn/traffic_vs_lead_selling_vs_closing/</link>
       <pubDate>Mon, 21 Aug 2023 17:32:25 +0600</pubDate>
-      
       <guid>https://allthrusmartphone.xyz/blog/learn/traffic_vs_lead_selling_vs_closing/</guid>
       <description>Some online marketing terms are often tricky to understand, like traffic vs lead, sale vs close&amp;hellip; Do they mean the same or have some differences&amp;hellip; Read the post to get clarity&amp;hellip;</description>
     </item>
-    
   </channel>
 </rss>

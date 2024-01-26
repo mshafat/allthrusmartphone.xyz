@@ -37,26 +37,26 @@ Although my research says skool has been around for a while (started back in 201
 In that post Hormozi says:
 > **BIG Announcement** I just made the largest investment of my life into Skool.com — a platform with millions of users that makes starting your own online business simple, easy, and fun. I’ve been looking for an opportunity to make starting a business accessible to EVERYONE. And after four years…I finally found it. Skool is that opportunity. To give you an idea, users are joining Skool communities so fast that host payouts are growing by 62%...PER. MONTH. (Not a typo). If that sounds interesting...we’ve got something big coming. It involves business. Competition. Money. Prizes. And most importantly, you. It’s like nothing you’ve ever seen before. You’re gonna love it. More Details to follow...stay tuned.
 
-And after that I see more and more experienced marketers started sharing posts on transitioning their Facebook group to skool. But as a marketer I wondered what's it in for them, and for people interested in building online courses and communities...
+And after that I see more and more experienced marketers started sharing posts on transitioning their Facebook group to skool. But as a marketer I wondered what's in it for them, and for people interested in building online courses and communities...
 
 
-When I deep dived to find out the reasons, the following problems were apparent for Facebook Group:
+When I dived deep to find out the reasons, the following problems were apparent for Facebook Group:
 
 ## Problem with Facebook Group that Marketers Don't Like
 - Recent alogrithm changes in Facebook is favoring profile contents over groups and pages
 - Getting featured on Facebook Discover is getting harder for new groups to get organic inboud leads
 - Engagement in Facebook groups are going down year on year
 - There are more groups in Facebook that people can remember and you can only pin so many groups in shortcut for quick access. 
-- Spammers and novice marketers are ruining the culture of many facebook groups natural flow (there are people who even dare to join new facebook groups for that)
-- Monetizing facebook group directly is not possible, you have to make the payment happen in outside channel or funnel
+- Spammers and novice marketers are ruining the culture of many Facebook groups natural flow (there are people who even dare to join new Facebook groups for that)
+- Monetizing Facebook group directly is not possible, you have to make the payment happen in outside channel or funnel
 - Facebook Group contents are not discoverable from Google Search
-- Facebook is notorious for restricting Facebook Profile for accessive usage, and marketers don't like that
-- Automating certain repeatitive task inside Facebook Group is not possible. Example: Automatic Personal DM upon Joining etc. 
+- Facebook is notorious for restricting Facebook Profile for exccessive usage, and marketers don't like that
+- Automating certain repeatitive tasks inside Facebook Group is not possible. Example: Automatic Personal DM upon Joining etc. 
 - Facebook also don't like people use automation plug-ins to automate friend requests, dms etc. It may ban you for that.
 
 ## How skool is solvoing some of these problems of Facebook Group
 
-There are certain things skool has solved for course and community builders that makes it an interesting alternative for Facebook Group. They are described below:
+There are certain things skool has solved for course and community builders that makes it an interesting alternative to Facebook Group. They are described below:
 
 - skool is designed to give joy and color to communities and courses
 - They incorported gamification inside skool communities. There are leaderboards, points etc. to motivate people take action and unlock more features inside individual group

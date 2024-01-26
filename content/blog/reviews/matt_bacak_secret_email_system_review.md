@@ -5,8 +5,8 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: true
-categories: ["Learn", "Earn", "Be Productive", "Reviews", "Intro"]
-tags: ["affiliate marketing", "traffic and conversion", "mindset", "method", "opportunity"]
+categories: ["Reviews"]
+tags: ["traffic and conversion","method"]
 
 cover: 
     image: images/
@@ -14,4 +14,12 @@ cover:
     caption: 
 ---
 
+Secret Email System is a top product in WarriorPlus Marketplace. I have seen a few good marketers promoted it in last year. 
 
+Irreistible offer creation
+Top niches in affiliate marketing
+Using affilaite marketing for your advantage and 
+Real recret to identify the right affiliate product
+
+My key take aways from Secret Email System:
+- Sell dollars for dime by creating an irresistable offer
