@@ -41,9 +41,9 @@ The product sales page starts with a BIG and BOLD promise and here it goes:
 
 > New Book Reveals How I Built A 7-Figure Online Business Using Nothing But Ethical Email Marketing To Drive Revenue, Sales and Commission...Without Ever Creating Product, Without Fulfilling Services, Without Running Ads, or Ever Doing Customer Service – And Best of All Only Working 30 Minutes A Day, All While Automatically Generating Sales 24/7
 
-Ah, I reread it again, and found the promise is buiding a *7-Figure Online Business" putting "30 Minutes a Day". Sounds great because I can give 90 minutes to make just $50-100 each day or $1500-3000/m... it would be great if it is possible...
+Ah, I reread it again, and found the promise is buiding a "7-Figure Online Business" putting "30 Minutes a Day". Sounds great because I can give 90 minutes to make just $50-100 each day or $1500-3000/m... it would be great if it is possible...
 
-On top of the above BIG BOLD Promise, inside the sales page I also found the following points on why This Secret Email System is a completely Different, Unique and Secret method people haven't heard before and where the system focus to make the promise a reality:
+On top of the above BIG BOLD Promise, inside the sales page I also found the following points on why This Secret Email System is a completely Different, Unique and Secret method people haven't heard before and where the system *doesn't* focus to make the promise a reality:
 
 - He doesn’t focus on *free* traffic strategies - because the reality is NOTHING is free and usually when something is FREE, the payment in the end is a lot bigger.
 - He doesn’t focus on Facebook, Google, or YouTube Ads - because the algorithm changes weekly and sometimes daily - making it near impossible to build a long-term sustainable business.
@@ -58,7 +58,7 @@ I suspect you are guessing this should be the "Secret" of "Secret Email System".
 
 Let's see how much secrets I have found there...
 
-There are my notes from selected chapters from Secret Email System ebooks:
+Following are my notes from selected chapters from Secret Email System ebooks:
 
 ## Introduction: The Long, Hard Road
 It doesn't include a formal introduction chapter, but I took the first few pages of the book as introduction. In those pages, Matt Bacak shared the long, hard road that everybody tells newbies to go down... and the path is as follows:
@@ -105,7 +105,6 @@ One key lesson I took from this book found here:
 
 Yeah "selling dollars for dime" is the key take-away from the book. Matt describes in simple words how you can sell dollars for dimes... New idea worth [checking in](https://warriorplus.com/o2/a/np11r1/0)
 
-(how to convey the value to people?)
 
 **2. Take a shortcut by picking an irresistible offer created by someone else**
 
@@ -125,7 +124,9 @@ The reason for getting the domain is email and it is no wonder why the #5 advice
 
 **6. Desgin a pre-frame opt-in page**
 
-Ah I made a mistake, there is another reasons for getting the domain, building an opt-in page. And he adviced to design it in such a way that prepares pre-frames the readers for forthcoming offer. So he recommended to put a thank you page after opt-in page and email 3 irresistible offer email in next 3 days after opt-in...Here he also clarified what it means by "self-funding subscribers". 
+Ah I made a mistake, there is another reasons for getting the domain, building an opt-in page. And he adviced to design it in such a way that prepares and pre-frames the readers for forthcoming offer. So he recommended to put a thank you page after opt-in page and email 3 irresistible offer email in next 3 days after opt-in...Here he also clarified what it means by "self-funding subscribers". 
+
+Related: In case you are interested, I also reviewed one of the best funnel builder and autoresponder softwares which comes with a generous [FREE plan](https://allthrusmartphone.xyz/blog/reviews/systeme-io_funnel_builder_review/). 
 
 So these were the 6 advices he would give to his brother and he disclosed them all for all of us...
 
@@ -150,7 +151,7 @@ But why do people will purchase more offers from you...
 
 Matt explained by saying they would buy it anyway... if it is not from you...then it will be someone else... so whyn't just make the sale yourself?
 
-He shared Diderot Effect in this section. French philosopher Danis Diderot lived his entire life into poverty. At the time of his daugher's marriage he needed money to pay the dowry. When the Empress of Russia, Catherine the Great, heard of Diderot’s financial troubles she offered to buy his library from him for £1000 GBP, which is approximately $63,000 USD in 2024. All of a sudden, Diderot had money to spare. But the spare money made Diderot spend for things that he didn't need. We see Diderot Effect pretty common in our daily lives. If are planning for a vacation, we buy clothes for the that, but new clothes encourages us to buy new matching shoes, matching luggages etc. So this is the reason people will buy different offers from you...
+He shared Diderot Effect in this section. French philosopher Danis Diderot lived his entire life into poverty. At the time of his daughter's marriage he needed money to pay the dowry. When the Empress of Russia, Catherine the Great, heard of Diderot’s financial troubles she offered to buy his library from him for £1000 GBP, which is approximately $63,000 USD in 2024. All of a sudden, Diderot had money to spare. But the spare money made Diderot spend for things that he didn't need. We see Diderot Effect pretty common in our daily lives. If we are planning for a vacation, we buy clothes for the that, but new clothes encourages us to buy new matching shoes, matching luggages etc. So this is the reason people will buy different offers from you...
 
 ## How to 10x Your Profit
 
@@ -158,11 +159,11 @@ After sharing the Money Making Mantra, Matt shared his secrets to make it 10x. M
 
 ## The Last Missing Piece
 
-So far what Matt Bacak shared is not anything new. He shared strategies to find profitable niches, ways to choose high converting affilaite offers, setting opt-in page and email autoresponder and using mostly paid traffic strategies to get email opt-in and do email marketing to make money by sending irresistible offers on a regular basis. But it is not enough to make the money.... there's one missing piece left and it is -- **action**. He said this is what makes his successful students apart from those who failed. Every one of them took action. He shared something I liked:
+So far what Matt Bacak shared is not anything new. He shared strategies to find profitable niches, ways to choose high converting affiliate offers, setting opt-in page and email autoresponder and using mostly paid traffic strategies to get email opt-in and do email marketing to make money by sending irresistible offers on a regular basis. But it is not enough to make the money.... there's one missing piece left and it is -- **action**. He said this is what makes his successful students apart from those who failed. Every one of them took action. He shared something I liked:
 
 > Nobody has ever been paid for what they know. They get paid for what they do.
 
-He said taking action may not make you money initially but it will give you important feedback. Take the feedback, adjust accordingly and do it again...
+He said taking action may not make you money initially but it will give you important feedback. Take the feedback, adjust, improve accordingly and do it again...
 
 ## How to Get Your Email Opened?
 After giving you the building blocks of Secret Email System, Matt continues delivering more value on email marketing...
@@ -185,11 +186,11 @@ Now he said there are 2 things you need to do to build rapport:
 
 In my experience I have found building rapport aka know, like, trust is a key lesson to succeed in online marketing. Matt shared the same concept here with Secret Email System. But here's the truth why most people fail to make any sale... in Matt Bacak's words:
 
-> Most people don’t take the time to build this rapport with their list, which is why they struggle to make any sales.
+> Most people don’t take the time to build this rapport (or doing the 2 things) with their list, which is why they struggle to make any sales.
 
-First half of the book described all these fundamental concepts of interent marketing in general and email marketing in specific. The later half discussed on best practices to write effective email. 
+First half of the book described all these fundamental concepts of interent marketing in general and email marketing in specific. The second half discussed on best practices to write effective email. 
 
-In email marketing, there are only 2 metrics to measure - Open Rate and Clickthrough rate
+In email marketing, there are mainly 2 metrics to measure - Open Rate and Clickthrough rate
 
 Matt shared his proven strategies to write effective subject lines...like:
 
@@ -204,7 +205,7 @@ Learning and applying these headlines will help increase your email open rate...
 
 Once your email gets opened, all your effort should be focused on getting the click and so you need a strong call to action. Matt Bacak shared a few examples of call to action in email...
 
-Then Matt discussed about 4 types of email:
+Then Matt discussed on 4 types of email:
 - Content Emails
 - Free Gift Emails
 - Promotional Emails
@@ -218,20 +219,20 @@ Then Matt discussed about 4 types of email:
 - Learned how to generate responses from your email
 - Learned how to track success of my email campaign
 - Learned how often should I email my list
-- Learned how to put all the these together
+- Learned how to put all these together
 
 ## So What I Realized After Reading Secret Email System?
-I must say I was skeptical when I went through the sales page of the book. And I was searching for ways to tell my readers where he lied in the sales page. But surprisingly I have found just a handful of mismatches between sales page and the book contents. That being said, I have to admit Matt Bacak is a very tricky and smart marketer, I would say it positively. He knows his stuff and I liked the fact he is doing email marketing to engage his list. That being said, I can confidently say making 7 figure from Email and Affiliate Marekting solely and without paying for ads is just impossible. You need to have proper lead generation system and your own offer to build a 7 figure business. What Matt Bacak said can be true for him (although I would be highly skeptical), but for 99.9% people it is just impossible. 
+I must say I was skeptical when I went through the sales page of the book. And I was searching for ways to tell my readers where he lied in the sales page. But surprisingly I have found just a handful of mismatches between sales page and the book contents. That being said, I have to admit Matt Bacak is a very tricky and smart marketer, I would say it positively. He knows his stuff and I liked the fact that he is doing email marketing to engage his list. That being said, I can confidently say making 7 figure from Email and Affiliate Marekting solely and without paying for ads is near impossible. You need to have proper lead generation system and your own offer to build a 7 figure business. What Matt Bacak said can be true for him (although I would be highly skeptical), but for 99.9% people it is just impossible. 
 
 But still the book brings a lot of value for the readers. These are evergreen tips and strategies one need to follow to make affiliate marketing work. I love this part of the book. 
 
 ## What's Next: What are the Upsells and Downsell?
-As I said in the begining, the book Secret Email System is just a front end offer. Once you complete the book and go through the bonuses included with the book, you will get some good foundation to approach affiliate marketing and email marketing the right way. After that you will need to solve your traffic problem (otherwise how would you get those subscribers to email?). And you can't solve it from the book and the bonunes. You need to know how to leverage one of the 7 paid traffic sources mentioned in the book. So Matt recommended to purchase 1st its upsell Ultimate Email Marketing Package to learn those traffic strategies...At least I have found him recommending it in his Secret Email System Checklist
+As I said in the begining, the book Secret Email System is just a front end offer. Once you complete the book and go through the bonuses included with the book, you will get some good foundation to approach affiliate marketing and email marketing the right way. After that you will need to solve your traffic problem (otherwise how would you get those subscribers to email?). And you can't solve it from the book and the bonunes. You need to know how to leverage one of the 7 paid traffic sources mentioned in the book. So Matt recommended to purchase 1st its upsell Ultimate Email Marketing Package to learn those traffic strategies...At least I have found him recommending it in his Secret Email System Checklist...
 
 ![One Point of Secret Email System Checklist](/images/screenshots/secret_email_system_checklist.png)
 
 
-It will cost $97 as upsell, but here's a trick, if you say "No Thanks" to the upsell you can even get it for a Downsell Price of $47. I would recommend you say "No Thanks" if you want to purchase Ultimate Email Marketing Package, it will save you money if you say "No Thanks"...
+Ultimate Email Marketing Package will cost $97 as upsell, but here's a trick, if you say "No Thanks" to the upsell you can even get it for a Downsell Price of $47. I would recommend you click "No Thanks" if you want to purchase Ultimate Email Marketing Package, it will save you money if you say "No Thanks"...
 
 There's a second upsell after that -- Secret Email Mastermind -- and it will cost $84/year or you can again say "No Thanks" and get a second offer which will cost $9.95/m. So, yearly price will save you more money... so say no to "No Thanks" in this case...
 
@@ -240,4 +241,4 @@ This is how the entire funnel is structured.
 
 ## My Recommendation
 
-I hope you enjoyed reading my review. I tried to be as pragmatic, authentic and honest as possible. The book [Secret Email System](https://warriorplus.com/o2/a/np11r1/0) with its bonues is a bargain for the price of just $5.6, I recommend it at this price. But don't expect too much just reading the sales page. 
+I hope you enjoyed reading my review. I tried to be as pragmatic, authentic and honest as possible. The book Secret Email System with its bonues is a bargain for the price of just $5.6, I recommend it [at this price](https://warriorplus.com/o2/a/np11r1/0). Just don't expect too much from reading the sales page. 
