@@ -62,3 +62,5 @@ Earlier in journey, my first mentor taught the same principle in his high ticket
 I think this aligns with what I wrote today about maximizing mentorship. The first two step (Show Up and Ask) will help you get the "Information", and 3rd step (Do) is taking action and finally 4th step (Report Back) is sharing your results with a view to giving and receiving feedback. 
 
 I hope this simple framework will be helpful in your journey...
+
+If you are looking for a good mentorship and support group in affiliate marketing, I encourge you to check this one >> [**Secret Affiliate Insiders Community**](https://secretaffiliateinsider.com/shafat)
