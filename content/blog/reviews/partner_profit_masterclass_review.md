@@ -1,5 +1,5 @@
 ---
-title: "Partner_profit_masterclass_review"
+title: "Partner Profit Masterclass Review"
 date: 2024-04-15T17:43:10+06:00
 author: ["Shafat M."]
 ShowReadingTime: true
