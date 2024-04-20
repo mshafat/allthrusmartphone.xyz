@@ -5,7 +5,7 @@ author: ["Shafat M."]
 ShowReadingTime: true
 ShowToc: true
 draft: false
-categories: ["Reviews" "Earn"]
+categories: ["Reviews", "Earn"]
 tags: ["method", "opportunity"]
 
 cover: 
