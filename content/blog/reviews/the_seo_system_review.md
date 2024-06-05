@@ -103,6 +103,10 @@ I like several things about The SEO System:
 ## What I don't like about The SEO System
 Overall, I have no complaints about the course. However, I did notice that the sound levels weren't consistent across all the modules. The volume was a bit low for most of the videos, but not uniform. But Connor mentioned at the beginning that we shouldn't expect high-quality video production, but rather great content, so it's understandable.
 
+## My Recommendations
+Based on my experience with the course, I highly recommend it for beginners in Search Engine Optimization. It will definitely provide a solid foundation, allowing you to start implementing techniques quickly. Plus, it won't cost a fortune, so you can get started without breaking the bank. If you want to get off to a good start in SEO, I suggest you grab [**The SEO System**](https://learn.connorgillivan.com/a/2147789187/Johio4R2).
+
+
 ## Frequently Asked Questions
 ### Question 1: Is SEO dead in 2024?
 **Answer:** No, SEO is not dead. It is changing, so you need to adapt to the changes in the industry.
