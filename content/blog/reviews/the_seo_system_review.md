@@ -25,7 +25,7 @@ Today, I'm going to write a review of the course. Let's begin!
 
 
 # Facts Sheet
-- **Site:** [The SEO System](https://learn.connorgillivan.com/a/2147789187/Johio4R2)
+- **Site:** [The SEO System](https://learn.connorgillivan.com/a/2147812948/Johio4R2)
 - **Vendor:** Connor Gillivan (10+ years experience in SEO)
 - **Launched Date:** January 2024
 - **Category:** SEO Course
@@ -104,7 +104,7 @@ I like several things about The SEO System:
 Overall, I have no complaints about the course. However, I did notice that the sound levels weren't consistent across all the modules. The volume was a bit low for most of the videos, but not uniform. But Connor mentioned at the beginning that we shouldn't expect high-quality video production, but rather great content, so it's understandable.
 
 ## My Recommendations
-Based on my experience with the course, I highly recommend it for beginners in Search Engine Optimization. It will definitely provide a solid foundation, allowing you to start implementing techniques quickly. Plus, it won't cost a fortune, so you can get started without breaking the bank. If you want to get off to a good start in SEO, I suggest you grab [**The SEO System**](https://learn.connorgillivan.com/a/2147789187/Johio4R2).
+Based on my experience with the course, I highly recommend it for beginners in Search Engine Optimization. It will definitely provide a solid foundation, allowing you to start implementing techniques quickly. Plus, it won't cost a fortune, so you can get started without breaking the bank. If you want to get off to a good start in SEO, I suggest you grab [**The SEO System**](https://learn.connorgillivan.com/a/2147812948/Johio4R2).
 
 
 ## Frequently Asked Questions
